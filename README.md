@@ -22,3 +22,4 @@ pandas
 memory_profiler
 scipy
 ```
+### Please star it, thank you! :）
