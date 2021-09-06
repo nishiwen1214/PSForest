@@ -1,5 +1,5 @@
 <p align="center">
- <img width="438" alt="image" src="https://user-images.githubusercontent.com/56249874/132160763-8d7e265d-f217-4702-81f6-16e91f0add25.png">
+ <img width="304" alt="image" src="https://user-images.githubusercontent.com/56249874/132160898-99b8044c-f007-4a31-9892-c363f56b8189.png">
 <p align="center">
   <a href="https://github.com/nishiwen1214/PSForest/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/misitebao/standard-repository?style=flat-square"/></a>
   <a href="https://github.com/nishiwen1214/PSForest"><img alt="GitHub Repo stars"src="https://img.shields.io/github/stars/nishiwen1214/PSForest?style=flat-square"/></a>
